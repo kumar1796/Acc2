@@ -1,0 +1,25 @@
+.input-group{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;    
+    border: 1px solid black;    
+   
+}
+
+.input{
+
+}
+
+.input-label{
+margin-bottom: 10px;
+
+}
+
+.input{
+
+}
+
+.add-todo-btn{
+
+}
